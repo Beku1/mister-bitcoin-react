@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Beku1/mister-bitcoin-react.git/static/css/main.35e5a8ec.css",
+    "main.js": "/Beku1/mister-bitcoin-react.git/static/js/main.8a06c15f.js",
+    "static/media/logo.png": "/Beku1/mister-bitcoin-react.git/static/media/logo.9840879163c19ea715cb.png",
+    "index.html": "/Beku1/mister-bitcoin-react.git/index.html",
+    "main.35e5a8ec.css.map": "/Beku1/mister-bitcoin-react.git/static/css/main.35e5a8ec.css.map",
+    "main.8a06c15f.js.map": "/Beku1/mister-bitcoin-react.git/static/js/main.8a06c15f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e5a8ec.css",
+    "static/js/main.8a06c15f.js"
+  ]
+}
