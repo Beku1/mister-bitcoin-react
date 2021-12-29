@@ -1,0 +1,21 @@
+.input-container {
+  input {
+    color: honeydew;
+    background-color: #14151a;
+    border: black 1px solid;
+    width:300px;
+    height: 30px;
+    padding:0 10px;
+    &::placeholder {
+      color: honeydew;
+    }
+
+    &:focus-visible{
+        outline: none;
+        border:goldenrod 1px solid ;
+    }
+    &:focus{
+        background-color: #18436e;
+    }
+  }
+}

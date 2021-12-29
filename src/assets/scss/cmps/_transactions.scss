@@ -1,0 +1,67 @@
+.user-transactions{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 50px;
+
+
+justify-content: center;
+
+.transactions-history-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #14151a;
+    border-radius: 20px 20px 0 0;
+    font-weight: 600;
+    letter-spacing: 2px;
+padding:30px;
+width:350px;
+  &.home-transactions{
+        background-color:#1a1d2c;
+    }
+}
+
+
+.transactions-history:last-child{
+    border-radius: 0 0 20px 20px;
+}
+
+.transactions-history {
+    position: relative;
+    width:350px;
+    align-items: center;
+    background-color:#18436e ;
+    padding:20px;
+    gap: 10px;
+   
+  
+
+    .transaction-amount{
+        color: goldenrod;
+    }
+
+    .transaction-date{
+        color: gray;
+        font-size: 14px;
+    }
+
+    .amount-to-usd{
+        color:gray;
+    }
+
+    .transaction-status{
+        color:#76a028;
+    }
+
+    .transaction-line{
+        position: absolute;
+        width:99%;
+        height: 1px;
+        bottom:10px;
+        // background-color: goldenrod;
+       
+    }
+    
+}
+}
