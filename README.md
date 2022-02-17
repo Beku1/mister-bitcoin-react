@@ -4,7 +4,7 @@ Check it out here : [https://beku1.github.io/mister-bitcoin-react/](https://beku
 
 ## Description 
 
-Frontend React Bitcoin transfer app, With RealTime Bitcoin exchange rate thru Rest API.
+Frontend  React Mocked Bitcoin transfer app, With RealTime Bitcoin exchange rate thru Rest API.
 
 ## Technologies
 
